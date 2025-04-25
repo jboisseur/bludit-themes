@@ -9,6 +9,6 @@ Note that **Simple.css** comes with two classes, `.button` (so a link looks like
 
 Feel free to edit this theme so it meets your needs and please do raise issue if you find problems.
 
-Demo available on [https://jboisseur.xyz/bludit-demo-simplecss-theme/](https://jboisseur.xyz/bludit-demo-simplecss-theme/)
+Demo available on [https://jboisseur.xyz/bludit-theme-simplecss/](https://jboisseur.xyz/bludit-theme-simplecss/)
 
 *Latest update: April 2025*
